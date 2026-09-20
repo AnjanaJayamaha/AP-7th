@@ -1,0 +1,6 @@
+{
+  "name": "Anjana & Pasan - Anniversary Journal",
+  "description": "An interactive digital anniversary journal and keepsake card for Anjana & Pasan, featuring handwritten letters, scrapbook photo memories, the journey through hardest notes, and romantic Sinhala songs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
